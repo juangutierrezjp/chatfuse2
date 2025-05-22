@@ -1,0 +1,10 @@
+node_modules
+npm-debug.log
+evolution_postgres
+evolution_instances
+evolution_store
+node_modules
+npm-debug.log
+*.md
+.git
+.gitignore
