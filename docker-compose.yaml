@@ -55,4 +55,4 @@ services:
       evolution_api:
         condition: service_started
       postgres:
-        condition: service_healthy
+        condition: service_started
