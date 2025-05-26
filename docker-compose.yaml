@@ -54,5 +54,3 @@ services:
     depends_on:
       evolution_api:
         condition: service_started
-      postgres:
-        condition: service_healthy
